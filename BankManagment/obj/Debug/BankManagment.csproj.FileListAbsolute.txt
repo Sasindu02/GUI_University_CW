@@ -1,0 +1,54 @@
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\bin\Debug\BankManagment.exe.config
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\bin\Debug\BankManagment.exe
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\bin\Debug\BankManagment.pdb
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.AssemblyReference.cache
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.Properties.Resources.resources
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.GenerateResource.cache
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.CoreCompileInputs.cache
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.exe
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.pdb
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.FormMoneyBank.resources
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.Saving.resources
+D:\NIBM\7) GUI\CW\BankManagment\BankManagment\obj\Debug\BankManagment.Current.resources
+D:\NIBM\CW\GUI\BankManagment\BankManagment\bin\Debug\BankManagment.exe.config
+D:\NIBM\CW\GUI\BankManagment\BankManagment\bin\Debug\BankManagment.exe
+D:\NIBM\CW\GUI\BankManagment\BankManagment\bin\Debug\BankManagment.pdb
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.AssemblyReference.cache
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.Current.resources
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.Properties.Resources.resources
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.Saving.resources
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.GenerateResource.cache
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.CoreCompileInputs.cache
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.exe
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.pdb
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.MoneyBank.resources
+D:\NIBM\CW\GUI\BankManagment\BankManagment\obj\Debug\BankManagment.Loging.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\bin\Debug\BankManagment.exe.config
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\bin\Debug\BankManagment.exe
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\bin\Debug\BankManagment.pdb
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.AssemblyReference.cache
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.Current.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.Loging.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.MoneyBank.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.Properties.Resources.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.Saving.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.GenerateResource.cache
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.CoreCompileInputs.cache
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.exe
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\BankManagment\obj\Debug\BankManagment.pdb
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\bin\Debug\BankManagment.exe.config
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\bin\Debug\BankManagment.exe
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\bin\Debug\BankManagment.pdb
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.AssemblyReference.cache
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.AccCreated.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.Current.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.Loging.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.MoneyBank.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.Properties.Resources.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.Saving.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.GenerateResource.cache
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.csproj.CoreCompileInputs.cache
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.exe
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.pdb
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.Customer.resources
+D:\NIBM\CW\GUI\Bank Managment\BankManagment\BankManagment\obj\Debug\BankManagment.Success.resources
